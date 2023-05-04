@@ -35,6 +35,8 @@ label {
     padding: 20px;
 }
 .bt {
+    width: 400px;
+    height: 200px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
